@@ -1,0 +1,42 @@
+.emd-single-div{
+padding-top:20px;
+}
+.emd-single-title{
+padding-bottom:10px;
+font-weight: bold;
+}
+.emd-single-val{
+padding-right:10px;
+}
+/* Relationships */
+.relation-sec{
+margin-top:20px;
+}
+.related-title{
+margin-top:10px;
+margin-bottom:10px;
+font-weight:bold;
+}
+.related-data li{
+margin-bottom:10px;
+}
+.connected-title{
+margin-top:10px;
+margin-bottom:10px;
+font-weight:bold;
+}
+.connected-data li{
+margin-bottom:10px;
+}
+.connected-div{
+padding-bottom:5px;
+}
+.connected-div a {
+    display: block;
+    padding: 5px;
+    border: 1px solid #d3d3d3;
+    margin: 2px;
+    text-decoration: none;
+    border-radius: 4px;
+    background-color: #fff;
+}

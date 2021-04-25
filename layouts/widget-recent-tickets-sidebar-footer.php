@@ -1,0 +1,1 @@
+<?php global $recent_tickets_sidebar_shc_count; ?></ul>
