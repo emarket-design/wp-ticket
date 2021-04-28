@@ -86,7 +86,9 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-[![Introduction Video to get you started with WP Ticket](https://img.youtube.com/vi/Gsaf7TaCOJY/0.jpg)](https://www.youtube.com/watch?v=Gsaf7TaCOJY)
+### Click to watch Introduction video 
+
+ [![Introduction Video to get you started with WP Ticket](https://img.youtube.com/vi/Gsaf7TaCOJY/0.jpg)](https://www.youtube.com/watch?v=Gsaf7TaCOJY)
 
 To get a local copy up and running follow these simple example steps.
 
