@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://emdplugins.com/plugins/wp-ticket-wordpress-plugin/">
-    <img src="https://emdplugins.com/media/images/logos/wp_ticket_logo.gif" alt="Logo">
+    <img src="assets/img/wp_ticket_logo.gif" alt="Logo">
   </a>
 
   <h3 align="center">WP Ticket</h3>
@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![WP Ticket Screen Shot](https://emd-plugin-site.s3.amazonaws.com/wp_ticket_enterprise_540.png)
+![WP Ticket Screen Shot](assets/img/wp_ticket_enterprise_540.png)
 
 
 <ul>
