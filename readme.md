@@ -21,18 +21,21 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![WP Ticket Screen Shot](https://emd-plugin-site.s3.amazonaws.com/GROUP-IMG_NAME_enterprise_540.png)
+![WP Ticket Screen Shot](https://emd-plugin-site.s3.amazonaws.com/wp_ticket_enterprise_540.png)
 
 
-Every business needs a Customer Service Software & Support Ticket System to attract and retain customers. 
+<ul>
+<li>Define, categorize, and analyze service request tickets.</li>
+<li>Provide private, public, or mixed ticket support.</li>
+<li>Advanced collaboration for faster ticket resolutions.</li>
+<li>Assign responsibility and monitor resolution progress.</li>
+<li>Monitor service performance and control service costs.</li>
+<li>Role based content access for customers, managers, and agents.</li>
+<li>Deliver insight with built-in or custom request analytics reports.</li>
+<li>Create custom email notifications to keep customers and employees updated.</li>
+</ul>
 
-WP Ticket is a powerful yet easy to use help desk software to build and maintain better customer relationships.
-
-**Introduction Video to get you started**
-
-https://www.youtube.com/watch?v=Gsaf7TaCOJY
-
-### RELATED WORDPRESS PLUGINS YOU MAY LIKE
+### Related WordPress Plugins
 
 
 * [Knowledge Center Starter](https://kcentercom.emdplugins.com/) Great knowledge base software for helping your customers and employees to find answers faster.
@@ -41,7 +44,7 @@ https://www.youtube.com/watch?v=Gsaf7TaCOJY
 * [WP Easy Contact Starter](https://wpeasycontactcom.emdplugins.com) Complete contact management solution to start, develop and grow your customer relationships.
 * [Request a quote Starter](https://requestaquote.emdplugins.com/) The Best Sales Quoting software for WordPress.
 
-### FEATURES
+### Features
 
 * [Central location for all your customer support tickets and agents](https://emdplugins.com/?p=10559&pk_campaign=wp-ticket-com&pk_kwd=readme)
 * [Fully responsive customer support system](https://emdplugins.com/?p=10560&pk_campaign=wp-ticket-com&pk_kwd=readme)
@@ -83,9 +86,11 @@ https://www.youtube.com/watch?v=Gsaf7TaCOJY
 <!-- GETTING STARTED -->
 ## Getting Started
 
+[![Introduction Video to get you started with WP Ticket](https://img.youtube.com/vi/Gsaf7TaCOJY/0.jpg)](https://www.youtube.com/watch?v=Gsaf7TaCOJY)
+
 To get a local copy up and running follow these simple example steps.
 
-### WP Ticket LINKS
+### WP Ticket WordPress Plugin Links
 
 
  * [WP Ticket Starter Demo Site](https://wpticketcom.emdplugins.com/?pk_campaign=wp-ticket-com&pk_kwd=readme)
@@ -99,10 +104,20 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
+#### Using This Page
+* Click on Clone or Download button on this page. Click, and you can see a drop-down box having two options, click on Download ZIP.
+* Login to your website and go to the Plugins section of your admin panel.
+* Click the Add New button.
+* Under Install Plugins, click the Upload link.
+* Select the plugin zip file from your computer then click the Install Now button.
+* You should see a message stating that the plugin was installed successfully.
+* Click the Activate Plugin link.
 
-The simplest way to install is to click on 'Plugins' then 'Add' and type 'WP Ticket' in the search field.
+#### Using WordPress
 
-#### Manual Installation Type 1
+The simplest way to install is to click on WordPress 'Plugins' page then 'Add' and type 'WP Ticket' in the search field.
+
+##### Manual Installation Type 1
 
 * Login to your website and go to the Plugins section of your admin panel.
 * Click the Add New button.
@@ -111,7 +126,7 @@ The simplest way to install is to click on 'Plugins' then 'Add' and type 'WP Tic
 * You should see a message stating that the plugin was installed successfully.
 * Click the Activate Plugin link.
 
-#### Manual Installation Type 2
+##### Manual Installation Type 2
 
 * You should have access to the server where WordPress is installed. If you don't, see your system administrator.
 * Copy the plugin zip file up to your server and unzip it somewhere on the file system.
