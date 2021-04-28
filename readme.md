@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![WP Ticket Screen Shot][ WP Ticket SCREEN SHOT]](https://emd-plugin-site.s3.amazonaws.com/GROUP-IMG_NAME_enterprise_540.png)
+![WP Ticket Screen Shot](https://emd-plugin-site.s3.amazonaws.com/GROUP-IMG_NAME_enterprise_540.png)
 
 
 Every business needs a Customer Service Software & Support Ticket System to attract and retain customers. 
